@@ -1,0 +1,4 @@
+/home/zenyt/clion-251.18673.49/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/zenyt/clion-251.18673.49/bin/ninja/linux/x64/ninja -G Ninja -S /home/zenyt/CLionProjects/test_polygon -B /home/zenyt/CLionProjects/test_polygon/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/zenyt/CLionProjects/test_polygon/cmake-build-debug
